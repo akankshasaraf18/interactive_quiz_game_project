@@ -13,6 +13,6 @@ This interactive quiz game features a dynamic multiple-choice question format de
 •  Interactive alerts for feedback and notifications
 
 # Author
-- Akanksha Saraf
+- Akanksha Saraf 
 
 
